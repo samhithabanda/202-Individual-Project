@@ -4,5 +4,5 @@ target/
 *.iml
 .vscode/
 .DS_Store
-output/
-results/
+/output/
+/results/
